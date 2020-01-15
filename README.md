@@ -1,7 +1,8 @@
 # DaUmHelp!
 
- Plataforma de contrato e prestação de serviços.*
- 
+ Consiste em uma plataforma de contratação e oferecimento de serviços, por parte dos usuários.
+Um profissional que deseja usar seus conhecimentos em determinada área se cadastra na plataforma, afim de oferecer seus serviços. Usuários clientes que necessitam de determinado serviço, se cadastram na plataforma e buscam o melhor profissional para realizar a tarefa desejada.
+
 **DESENVOLVEDORES**
 - Noemi Oliveira Ferrari  
 GitHub: [↑](https://github.com/Noemi-Oliveira-Ferrari)
