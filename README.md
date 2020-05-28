@@ -2,7 +2,7 @@
 
  Plataforma de contrato e prestação de serviços.*
  
-## DESENVOLVEDORES__
+**DESENVOLVEDORES**
 - Noemi Oliveira Ferrari [↑](https://github.com/Noemi-Oliveira-Ferrari)
 - Pedro de Almeida Santos [↑](https://github.com/PedroDeAlmeidaSantos)
 - Ester Vitor Ribeiro [↑](https://github.com/estervribeiro)
@@ -22,6 +22,6 @@
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENyaWFyIFNlcnZpw6dvIE
 phdmEgbm8gVWJ1bnR1XG5hdXRob3I6IEtlbHZpbiBSb25hbGRv
 XG50YWdzOiAnamF2YSwgc2VydmnDp28sIHVidW50dSwgbGludX
-gnXG5kYXRlOiAnMjAxOS0xMC0yOSdcbiIsImhpc3RvcnkiOlsz
-MzUxNDAxNjRdfQ==
+gnXG5kYXRlOiAnMjAxOS0xMC0yOSdcbiIsImhpc3RvcnkiOls4
+MDU3Mjc4NzIsMzM1MTQwMTY0XX0=
 -->
