@@ -17,11 +17,11 @@
 
 [Aplicativo](http://ec2-3-220-68-195.compute-1.amazonaws.com/duh/app/daumhelp.apk)
 
-*Projeto desenvolvido como *Trabalho de Conclusão de Curso do Curso Técnico de Informática* na **Escola SENAI "Vicente Amato"**
+*Projeto desenvolvido como *Trabalho de Conclusão de Curso** do Curso Técnico de Informática na **Escola SENAI "Vicente Amato"**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENyaWFyIFNlcnZpw6dvIE
 phdmEgbm8gVWJ1bnR1XG5hdXRob3I6IEtlbHZpbiBSb25hbGRv
 XG50YWdzOiAnamF2YSwgc2VydmnDp28sIHVidW50dSwgbGludX
-gnXG5kYXRlOiAnMjAxOS0xMC0yOSdcbiIsImhpc3RvcnkiOls4
-MDU3Mjc4NzIsMzM1MTQwMTY0XX0=
+gnXG5kYXRlOiAnMjAxOS0xMC0yOSdcbiIsImhpc3RvcnkiOlst
+OTg3NDQ2NTAsMzM1MTQwMTY0XX0=
 -->
