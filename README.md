@@ -1,32 +1,27 @@
 # DaUmHelp!
 
- Consiste em uma plataforma de contratação e oferecimento de serviços, por parte dos usuários.
-Um profissional que deseja usar seus conhecimentos em determinada área se cadastra na plataforma, afim de oferecer seus serviços. Usuários clientes que necessitam de determinado serviço, se cadastram na plataforma e buscam o melhor profissional para realizar a tarefa desejada.
-
-**DESENVOLVEDORES**
-- Noemi Oliveira Ferrari  
-GitHub: [↑](https://github.com/Noemi-Oliveira-Ferrari)
-LinkedIn: [↑](https://www.linkedin.com/in/noemi-ferrari-b29146199/)
-- Pedro de Almeida Santos  
-GitHub: [↑](https://github.com/PedroDeAlmeidaSantos)
-LinkedIn: [↑](https://www.linkedin.com/in/pedro-almeida-santos-6a4569196/)
-- Ester Vitor Ribeiro  
-GitHub: [↑](https://github.com/estervribeiro)
-LinkedIn: [↑](https://www.linkedin.com/in/ester-ribeiro-52bb81199/)
-- Kennedy Crispim  
-GitHub: [↑](https://github.com/kennedycrispim)
-- Kelvin Ronaldo Ferreira  
-GitHub: [↑](https://github.com/KelvinRonaldo)
-LinkedIn: [↑](https://www.linkedin.com/in/kelvinronaldo/)
+ Plataforma de contrato e prestação de serviços.*
+ 
+## DESENVOLVEDORES__
+- Noemi Oliveira Ferrari [↑](https://github.com/Noemi-Oliveira-Ferrari)
+- Pedro de Almeida Santos [↑](https://github.com/PedroDeAlmeidaSantos)
+- Ester Vitor Ribeiro [↑](https://github.com/estervribeiro)
+- Kennedy Crispim [↑](https://github.com/kennedycrispim)
+- Kelvin Ronaldo Ferreira  [↑](https://github.com/KelvinRonaldo)
 
 **PROFESSORES ORIENTADORES**
-- Celso Marcos Furtado  
-LinkedIn: [↑](https://www.linkedin.com/in/celso-furtado-803713aa/)
-- Rafael Nogueira Leme  
-LinkedIn: [↑](https://www.linkedin.com/in/rafael-nogueira-leme-71810a48/)
+- Celso Marcos Furtado
+- Rafael Nogueira Leme
 
 [Site](ec2-3-220-68-195.compute-1.amazonaws.com)
 
 [Aplicativo](http://ec2-3-220-68-195.compute-1.amazonaws.com/duh/app/daumhelp.apk)
 
 *Projeto desenvolvido como *Trabalho de Conclusão de Curso do Curso Técnico de Informática* na **Escola SENAI "Vicente Amato"**
+<!--stackedit_data:
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENyaWFyIFNlcnZpw6dvIE
+phdmEgbm8gVWJ1bnR1XG5hdXRob3I6IEtlbHZpbiBSb25hbGRv
+XG50YWdzOiAnamF2YSwgc2VydmnDp28sIHVidW50dSwgbGludX
+gnXG5kYXRlOiAnMjAxOS0xMC0yOSdcbiIsImhpc3RvcnkiOlsz
+MzUxNDAxNjRdfQ==
+-->
